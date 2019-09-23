@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Api_Healthcheck\bin\Debug\netcoreapp2.2\Api_Healthcheck.deps.json
+C:\Users\HP\source\repos\Api_Healthcheck\bin\Debug\netcoreapp2.2\Api_Healthcheck.runtimeconfig.json
+C:\Users\HP\source\repos\Api_Healthcheck\bin\Debug\netcoreapp2.2\Api_Healthcheck.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Api_Healthcheck\bin\Debug\netcoreapp2.2\Api_Healthcheck.dll
+C:\Users\HP\source\repos\Api_Healthcheck\bin\Debug\netcoreapp2.2\Api_Healthcheck.pdb
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.AssemblyInfo.cs
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.dll
+C:\Users\HP\source\repos\Api_Healthcheck\obj\Debug\netcoreapp2.2\Api_Healthcheck.pdb

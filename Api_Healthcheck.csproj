@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Migrations\20190921104512_initialcreate.cs" />
+    <Compile Include="Migrations\20190921104512_initialcreate.Designer.cs" />
+    <Compile Include="Migrations\20190921135600_apiAdded.cs" />
+    <Compile Include="Migrations\20190921135600_apiAdded.Designer.cs" />
+    <Compile Include="Migrations\20190921140028_apiAdded1.cs" />
+    <Compile Include="Migrations\20190921140028_apiAdded1.Designer.cs" />
+    <Compile Include="Migrations\ApiDbContextModelSnapshot.cs" />
+    <Compile Include="Models\Api.cs" />
+    <Compile Include="Models\ApiDbContext.cs" />
+    <Compile Include="Models\Test.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.2\Api_Healthcheck.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\netcoreapp2.2\Api_Healthcheck.RazorAssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.Development.json" />
+    <Content Include="appsettings.json" />
+    <Content Include="obj\Api_Healthcheck.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="Properties\launchSettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Api_Healthcheck.sln" />
+    <None Include="obj\Api_Healthcheck.csproj.nuget.cache" />
+    <None Include="obj\Api_Healthcheck.csproj.nuget.g.props" />
+    <None Include="obj\Api_Healthcheck.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\netcoreapp2.2\Api_Healthcheck.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\Api_Healthcheck.assets.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\Api_Healthcheck.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\Api_Healthcheck.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\netcoreapp2.2\Api_Healthcheck.RazorAssemblyInfo.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Formatters.Json" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="RestSharp" Version="106.6.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\netcoreapp2.2\" />
+  </ItemGroup>
+
+</Project>
